@@ -61,7 +61,7 @@
 * [x] SSH (Connecting, Generating Keys, Adding Hosts, ...etc)
 * [x] Authentication (session, basic, token and jwt token)
 * [ ] Docker, docker-compose
-* [ ] Postman
+* [x] Postman
 * [x] Authentication vs Authorization
 
 
@@ -70,7 +70,7 @@
   * [ ] Two-Scoops with Django
   * [ ] Code With Mosh - Ultimate Django Series
   * [ ] Documentation
-* [ ] Django App Architecture and Organization
+* [x] Django App Architecture and Organization
 * [ ] Important Packages
   * [ ] django-split-settings (https://sobolevn.me/2017/04/managing-djangos-settings)
   * [ ] django-allauth (social auth)
