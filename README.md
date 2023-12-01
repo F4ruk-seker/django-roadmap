@@ -4,7 +4,7 @@
 - 8 part
 - 107 task
 - 41 end
-![](https://geps.dev/progress/46)
+- ![](https://geps.dev/progress/46)
 -------------------
 
 ## Part 1 (Development Basics):
