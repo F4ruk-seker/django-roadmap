@@ -1,5 +1,7 @@
 # Django Roadmap:
 
+### Counter
+![](https://geps.dev/progress/10)
 -------------------
 
 ## Part 1 (Development Basics):
