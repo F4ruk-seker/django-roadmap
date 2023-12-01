@@ -1,7 +1,10 @@
 # Django Roadmap:
 
-### Counter
-![](https://geps.dev/progress/10)
+### progress
+- 8 part
+- 107 task
+- 41 end
+![](https://geps.dev/progress/46)
 -------------------
 
 ## Part 1 (Development Basics):
@@ -62,7 +65,7 @@
 * [ ] Symmetric Encryption and Asymmetric Encryption
 * [x] SSH (Connecting, Generating Keys, Adding Hosts, ...etc)
 * [x] Authentication (session, basic, token and jwt token)
-* [ ] Docker, docker-compose
+* [x] Docker, docker-compose
 * [x] Postman
 * [x] Authentication vs Authorization
 
@@ -136,6 +139,6 @@
 * [x] NPM
 * [ ] Webpack  
 * [x] SPA (Vue and Nuxt.js/React and Next.js/Angular)
-* [ ] PWA
+* [x] PWA
 * [ ] TypeScript
 * [ ] ...etc
