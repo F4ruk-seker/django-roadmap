@@ -2,8 +2,8 @@
 
 ### progress
 - 8 part
-- 107 task
-- 41 end
+- 108 task
+- 43 end
 - ![](https://geps.dev/progress/46)
 -------------------
 
@@ -39,14 +39,14 @@
 * [x] Clean Code
 * [ ] Design Principles (SOLID, KISS, YAGNI, ...etc)
 * [ ] Design Patterns
-* [ ] Testing (Unit, Integration, Functional)
+* [x] Testing (**Unit**, Integration, Functional)
 * [ ] Pytest
 * [ ] TDD (Test-Driven Development)
 * [ ] BDD (Behavior-Driven Development)
 * [ ] DDD (Domain-Driven Design)
-* [ ] - Issue Tracking (GitHub issues, JIRA, Redmine) Learn how to mention issue number in commit message
+* [x] - Issue Tracking (GitHub issues, **JIRA**, Redmine) Learn how to mention issue number in commit message
 * [ ] Continues Integration ([GitHub Actions](https://github.com/features/actions), Jenkins, Travis-CI)
-* [ ] pre-commit hooks (black, flake) 
+* [x] pre-commit hooks (black, flake) 
 * [x] .env files and environmental variables 
 * [x] Logs, and Logging (For Example Sentry)
 
@@ -97,6 +97,7 @@
   * [ ] django-push-notifications
   * [ ] django-solo
   * [ ] django-treebeard
+  * [x] django unfold
   * [x] PyJWT
   * [x] django-redis
   * [ ] django-wkhtmltopdf
