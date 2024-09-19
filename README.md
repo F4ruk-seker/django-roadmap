@@ -2,9 +2,9 @@
 
 ### progress
 - 8 part
-- 108 task
-- 43 end
-- ![](https://geps.dev/progress/46)
+- 107 task
+- 48 end
+- ![](https://geps.dev/progress/50)
 -------------------
 
 ## Part 1 (Development Basics):
@@ -88,7 +88,7 @@
   * [ ] django-el-pagination
   * [ ] django-extensions (shell_plus, jobs, ...etc)
   * [ ] drf-extra-fields (Base64Fields)
-  * [ ] django-filters
+  * [x] django-filters
   * [ ] django-fsm (state machine)
   * [ ] django-jet (admin styles and template)
   * [ ] django-modeltranslation
@@ -101,7 +101,7 @@
   * [x] PyJWT
   * [x] django-redis
   * [ ] django-wkhtmltopdf
-  * [ ] django-import-export
+  * [x] django-import-export
   * [x] sentry-sdk
   * [x] django-ckeditor
   * [ ] geopy (locating)
@@ -117,7 +117,7 @@
 
 * [x] custom management commands 
 * [x] custom migrations 
-* [ ] permissions 
+* [x] permissions 
 * [ ] Django cookie-cutter
 * [x] Django Rest Framework
 * [ ] Wagtail 
@@ -125,7 +125,7 @@
 
 ## Part 7 (Advanced Concepts & Devops & Production):
 * [ ] Elastic Stack
-* [ ] Caching with redis
+* [x] Caching with redis
 * [x] Asynchronous programming (celery, rabbit mq, django rq, Kafka) 
 * [ ] Linux cron jobs
 * [x] AWS Basics (S3, EC2, Networks)
