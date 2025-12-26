@@ -8,7 +8,7 @@
 -------------------
 
 ## Part 1 (Development Basics):
-* [x] Python virtual environment (pipenv, virtualenv, pyenv)
+* [x] Python virtual environment (pipenv, virtualenv, pyenv, poetry, uv (https://github.com/astral-sh/uv))
 
 * [ ] Effective Python Book
 
