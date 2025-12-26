@@ -3,7 +3,7 @@
 ### progress
 - 8 part
 - 107 task
-- 48 end
+- 50 end
 - ![](https://geps.dev/progress/50)
 -------------------
 
@@ -38,7 +38,7 @@
 * [x] Documentation
 * [x] Clean Code
 * [ ] Design Principles (SOLID, KISS, YAGNI, ...etc)
-* [ ] Design Patterns
+* [x] Design Patterns
 * [x] Testing (**Unit**, Integration, Functional)
 * [ ] Pytest
 * [ ] TDD (Test-Driven Development)
@@ -74,11 +74,11 @@
 * [ ] Good Resources:
   * [ ] Two-Scoops with Django
   * [ ] Code With Mosh - Ultimate Django Series
-  * [ ] Documentation
+  * [x] Documentation
 * [x] Django App Architecture and Organization
 * [ ] Important Packages
   * [ ] django-split-settings (https://sobolevn.me/2017/04/managing-djangos-settings)
-  * [ ] django-allauth (social auth)
+  * [x] django-allauth (social auth)
   * [x] django-rest-auth (for drf)
   * [ ] django-braces (mixins)
   * [ ] django-compressor (for static files)
